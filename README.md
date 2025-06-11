@@ -1,10 +1,8 @@
-# Proyecto: Diario Personal (MERN Stack)
-
-Esta es una aplicación web full-stack que permite a los usuarios registrarse, iniciar sesión y escribir entradas en un diario personal.
+# Proyecto: Diario Personal 
 
 ---
 
-## 🚀 Cómo Instalar y Ejecutar el Proyecto
+##  Cómo Instalar y Ejecutar el Proyecto
 
 Sigue estos pasos para poner en marcha la aplicación.
 
