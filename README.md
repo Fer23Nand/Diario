@@ -43,3 +43,5 @@ El servidor estará corriendo en http://localhost:4000.
 
 Profe, quitamos el .env que contiene la direccion hacia la base de datos, la pondremos aqui por si la llegara a necesitar:
 MONGO_URI=mongodb+srv://JaValenzuela23:Diario2025@clusterpoderoso.68y3y2j.mongodb.net/?retryWrites=true&w=majority&appName=ClusterPoderoso
+
+En caso de no saber instalar las librerías node_modules, ir al siguiente link de drive para descargar la carpeta completa.
